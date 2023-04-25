@@ -1,0 +1,22 @@
+{
+    "name": "ghike/emoji-picker",
+    "description": "An emoji picker package for projects using Laravel",
+    "homepage": "https://github.com/ghike/Emoji-Picker",
+    "keywords": ["emojis", "picker", "input", "stickers"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ghike\\EmojiPicker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Antonio",
+            "email": "guih-_-carvalho@hotmail.com",
+            "homepage": "https://github.com/ghike"
+        }
+    ],
+    "require": {
+        "php": "^5.5 || ^7.0 || ^8.0"
+    }
+}
